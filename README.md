@@ -5,3 +5,5 @@ API: https://kinopoiskapiunofficial.tech
 ![image](https://github.com/NikWither/onlineCinema/assets/74288513/16d21adb-4e31-44b1-b1a7-cb54170b6ce8)
 
 ![image](https://github.com/NikWither/onlineCinema/assets/74288513/66a6035f-f204-43e0-bfee-21b610e11bdc)
+
+![image](https://github.com/NikWither/onlineCinema/assets/74288513/63104edf-937e-4bdb-89c6-33f7c008224e)
