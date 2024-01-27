@@ -4,4 +4,4 @@ Fetch, async
 API: https://kinopoiskapiunofficial.tech
 ![image](https://github.com/NikWither/onlineCinema/assets/74288513/16d21adb-4e31-44b1-b1a7-cb54170b6ce8)
 
-![image](https://github.com/NikWither/onlineCinema/assets/74288513/52e454f9-c144-4cbb-a1bf-b31f10b8a1e2)
+![image](https://github.com/NikWither/onlineCinema/assets/74288513/66a6035f-f204-43e0-bfee-21b610e11bdc)
